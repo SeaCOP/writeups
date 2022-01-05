@@ -22,17 +22,16 @@ title: SeaCOP
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Seattle Center for Open Policing.
-domain: "seacop.github.io"
 baseurl: "/writeups" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seacop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: SeaCOP
 
 # Build settings
-theme: minima
+remote_theme: heiswayi/the-plain
 plugins:
   - jekyll-feed
-repository: seacop/writeups
+repository: SeaCOP/writeups
 
 # header_pages:
 #   - officers.markdown

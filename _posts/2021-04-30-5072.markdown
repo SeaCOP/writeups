@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Dossier on Johney Stevens 
+title: Johney Stevens
 tags:
 - 5072
 date: 2021-04-30
